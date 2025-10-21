@@ -88,7 +88,7 @@ body .bottom_bar{
 
 .id_image{
     z-index: -1;
-    width: 110%;
+    width: 95%;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -537,4 +537,5 @@ body .bottom_bar{
 .page_3_open .page_3{
     bottom: 0;
 }
+
 
