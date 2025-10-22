@@ -17,11 +17,11 @@ const indexManager = {
 
         const playlist = [
             {
-                src: './mp3/1.mp3',
+                src: './homepage/mp3/1.mp3',
                 title: 'NA ZAWSZE MALOLAT',
                 artist: 'oki',
                 album: 'whiplash / cliche',
-                cover: './images/1.mp3.jpg',
+                cover: './homepage/images/1.mp3.jpg',
                 link: 'https://music.apple.com/us/album/cliche/1697377154?i=1697377401'
             },
             {
